@@ -1,5 +1,6 @@
 # Intelligenza-Artificiale-Python
 Alcune applicazioni di Machine Learning (regressione, classificazione, clustering, reti neurali) scritte in linguaggio Python.
+
 Altri possibili usi: previsioni prezzi, sentimenti dei social network, analisi immagini, anomalie dei dati finanziari / degli impianti, ecc.
 
 Per avviare i programmi è necessario:
