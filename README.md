@@ -17,6 +17,10 @@ Altri possibili usi: previsioni prezzi, sentimenti dei social network, analisi i
 4. Convolutional Neural Network (CNN): il computer riconosce le somiglianze tra immagini, ne crea di nuove e impara le differenze.
    Nell'esempio il computer riconosce se da fotocamera gli mostri carta sasso o forbici, e "gioca" con te
 
+![Screenshot (3119)](https://github.com/cla1994/Intelligenza-Artificiale-Python/assets/116500326/386a8b2e-feab-46b4-bed2-2ed986665b4d)
+
+![image](https://github.com/cla1994/Intelligenza-Artificiale-Python/assets/116500326/943a380c-ef5f-4127-a794-6d426614a18e)
+
 
 
 Si riportano i codici. Per avviare i programmi è necessario:
