@@ -12,10 +12,14 @@ Altri possibili usi: previsioni prezzi, sentimenti dei social network, analisi i
 
 3. Clustering: raccomandazione film simili a film già visto (stile Netflix)
 
-![image](https://github.com/cla1994/Intelligenza-Artificiale-Python/assets/116500326/163a07aa-9a30-49bf-b572-abac757f53a0)
+![image](https://github.com/cla1994/Intelligenza-Artificiale-Python/assets/116500326/b567d676-3ffc-4838-b228-009ddd223533)
+
+4. Convolutional Neural Network (CNN): il computer riconosce le somiglianze tra immagini, ne crea di nuove e impara le differenze.
+   Nell'esempio il computer riconosce se da fotocamera gli mostri carta sasso o forbici, e "gioca" con te
 
 
-Per avviare i programmi è necessario:
+
+Si riportano i codici. Per avviare i programmi è necessario:
   1. Avere un account Google Drive
   2. Salvare i file .csv sul Drive
   3. Aprire i file .ipynb su Google Colab
