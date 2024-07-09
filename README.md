@@ -10,4 +10,4 @@ Per avviare i programmi è necessario:
   4. Indicare nel codice dove i file .csv sono stati salvati sul Drive (es. "/content/drive/My Drive/Mia cartella AI")
   5. Avviare i vari spezzoni di codice
 
-Per ogni dubbio scrivete a claudiomenichini94@gmail.com
+Per qualsiasi domanda scrivete a claudiomenichini94@gmail.com o contattatemi su questo sito
